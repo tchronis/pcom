@@ -1,0 +1,1 @@
+randn.d: ../randn.cpp
